@@ -5,7 +5,7 @@ Pequeño Script para calcular el índice de Gini y curva de Lorentz en python.
 
 - AUTOR: [Maximiliano Greco](http://mmngreco.flavors.me/)
 - FECHA: 17-10-2015
-- CORREO: mmngreco@gmail.com
+- CORREO: mmngreco @ gmail.com
 
 > ¡Las sugerencias son bien recibidas! :o)
 
