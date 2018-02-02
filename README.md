@@ -1,3 +1,4 @@
+Nota: Este repo ha evolucionado en un proyecto personal llamado [ineqpy](https://github.com/mmngreco/IneqPy).
 
 # ÍNDICE DE GINI Y CURVA DE LORENTZ 
 
